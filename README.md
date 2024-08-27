@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? no way, I don't really want to be known
 - 😄 Pronouns: ...
-- ⚡ Fun fact: funny fact, I position myself as an android, also looking up to my fictional cyber character, it’s extremely funny for me to express myself in this way, saying that I have a Pentium instead of a brain, or saying the phrase “[whatever], but the design doesn’t allow it”, well,
+- ⚡ Fun fact, I position myself as an android, also looking up to my fictional cyber character, it’s extremely funny for me to express myself in this way, saying that I have a Pentium instead of a brain, or saying the phrase “[whatever], but the design doesn’t allow it”, well,
 
 <!---
 SevenSR/SevenSR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
